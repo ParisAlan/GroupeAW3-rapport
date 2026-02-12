@@ -1,0 +1,13 @@
+/* RESPONSIVE - AFFICHE EQUIPE */
+
+@media (max-width: 768px) {
+    .member-photo {
+        width: 120px;
+        height: 120px;
+    }
+
+    .chef-projet .member-photo {
+        width: 140px;
+        height: 140px;
+    }
+}

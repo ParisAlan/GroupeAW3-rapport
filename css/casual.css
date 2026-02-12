@@ -1,0 +1,13 @@
+/* ELEMENT QU'ON RETROUVE UN PEU PARTOUT ! */
+
+body {
+    background: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+    color: #2c3e50;
+}
