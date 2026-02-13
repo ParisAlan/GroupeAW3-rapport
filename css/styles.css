@@ -12,6 +12,7 @@
 
 .team-section {
     padding: 3rem;
+    background-color: var(--background-color);
 }
 
 .team-member {

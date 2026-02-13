@@ -11,12 +11,17 @@ include 'partials/_navigation.php';
 include 'partials/_introduction.php';
 ?>
 
-<?php
-include 'partials/_team-section.php';
-?>
 
 <?php
 include "partials/_marche.php";
+?>
+
+<?php
+include "partials/_swot.php";
+?>
+
+<?php
+include 'partials/_team-section.php';
 ?>
 
 <?php
