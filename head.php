@@ -23,5 +23,6 @@
     <link rel="stylesheet" href="css/casual.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/styleindex.css">
 </head>
 <body>

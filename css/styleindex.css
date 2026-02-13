@@ -1,0 +1,68 @@
+.background-fixe {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('../assets/images/backgroundgreen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-section {
+    width: 100%;
+    position: relative;
+}
+
+.intro {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    max-width: 900px;
+    margin: 0 auto;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.6);
+}
+
+.boutons-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.mon-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    font-size: 1.1rem;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.btn-vert {
+    background-color: #469E46;
+    color: white;
+    border: 2px solid #469E46;
+}
+
+.btn-vert:hover {
+    background-color: #368036;
+    border-color: #368036;
+    transform: translateY(-2px);
+}
+
+.btn-blanc {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.btn-blanc:hover {
+    background-color: white;
+    color: #469E46;
+}
