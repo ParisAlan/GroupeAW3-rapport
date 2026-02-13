@@ -1,6 +1,6 @@
 <section class="team-section">
     <div class="container">
-        <h2 class="section-title">Découvrez notre équipe</h2>
+        <h2 class="section-title">Notre équipe</h2>
 
         <!-- Chef de Projet - Seul sur sa ligne -->
         <div class="row justify-content-center mb-5">

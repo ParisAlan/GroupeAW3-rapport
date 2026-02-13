@@ -11,12 +11,12 @@
 }
 
 .team-section {
-    padding: 60px 0;
+    padding: 3rem;
 }
 
 .team-member {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     transition: transform 0.3s ease;
 }
 
@@ -171,12 +171,6 @@ footer {
                                       NAVIGATION
 *******************************************************************************************/
 
-.navbar-collapse {
-    display: flex !important;
-    flex-basis: auto;
-    justify-content: space-around;
-}
-
 .navbar-custom {
     background-color: #ffffff;
     padding: 1rem 0;
@@ -258,9 +252,9 @@ footer {
     }
 }
 
-/************************************************************
-marche
-****************************************************************/
+/*******************************************************************************************
+                                      MARCHE
+*******************************************************************************************/
 
 .marche {
     padding: 3rem;
@@ -296,4 +290,27 @@ marche
 
 .marche-right img {
     width: 100%;
+}
+
+/*******************************************************************************************
+                                      MACROPLANNING
+*******************************************************************************************/
+
+.macroplanning {
+    padding: 3rem;
+}
+
+.macroplanning-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.macroplanning-container img {
+    border: 8px solid var(--quatruno-color);
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 65%;
+    height: auto;
 }

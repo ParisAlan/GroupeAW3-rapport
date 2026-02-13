@@ -15,21 +15,13 @@ include 'partials/_introduction.php';
 include 'partials/_team-section.php';
 ?>
 
-
 <?php
 include "partials/_marche.php";
 ?>
 
-<section class="macroplanning section">
-    <div class="container">
-        <h2 class="section-title">Macro-Planning et échéances</h2>
-        <div class="row justify-content-center mb-5">
-            <div class="macroplanning-container">
-                <img src="#" alt="Macroplanning">
-            </div>
-        </div>
-    </div>
-</section>
+<?php
+include "partials/_macroplanning.php";
+?>
 
 <?php
 include "partials/_footer.php";

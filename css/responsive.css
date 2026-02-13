@@ -11,3 +11,19 @@
         height: 140px;
     }
 }
+/* RESPONSIVE - MARCHE */
+
+@media (max-width: 768px) {
+    .marche-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* RESPONSIVE - MACROPLANNING */
+
+@media (max-width: 768px) {
+    .macroplanning-container img {
+        width: 110%;
+    }
+}

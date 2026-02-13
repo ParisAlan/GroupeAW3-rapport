@@ -37,8 +37,9 @@
                 <p>Le marché des calculateurs d'empreinte carbone est déjà structuré, mais peu d'acteurs proposent une solution spécifiquement conçue pour les étudiants. MyGreen Campus répond à un besoin identifié d'adaptation, de simplification et de motivation, ce qui constitue un axe de différenciation pertinent dans le cadre d'un projet à vocation pédagogique et universitaire.</p>
             </div>
             <div class="marche-right">
-                <img src="../assets/images/etude-marche-1.png" alt="Analyse du marché MyGreen Campus">
-                <img src="../assets/images/etude-marche-2.png" alt="Positionnement MyGreen Campus">
+                <img src="../assets/images/marche1.png" alt="Lot d'émoji represéntant les marchés et les étudiants">
+                <br><br><br><br><br><br>
+                <img src="../assets/images/marche2.png" alt="Lot d'émoji represéntant les badges et la gamification">
             </div>
         </div>
     </div>
