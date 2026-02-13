@@ -33,7 +33,7 @@
                 <p>Plusieurs outils ont été utilisés pour assurer la collaboration, l’organisation et la conception du projet :</p>
                 <ul>
                     <li>Github pour le versionning du code, avec une branche principale et une branche dédiée à chaque membre AW du groupe</li>
-                    <li>Microsoft Teams pour la communication et la gestion des tâches</li>
+                    <li>Microsoft Teams pour la communication et la gestion des tâches avec le planificateur</li>
                     <li>Google Docs / Microsoft Word pour la rédaction des documents</li>
                     <li>Canva pour la conception graphique et les supports visuels</li>
                 </ul>

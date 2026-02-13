@@ -13,7 +13,7 @@
                     <a class="nav-link" href="../rapport_lancement.php">Rapport de lancement</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../rapport_final.php">Rapport final</a>
+                    <a class="nav-link disabled" href="../rapport_final.php">Rapport final</a>
                 </li>
                 <li>
                     <p class="interlude">|</p>

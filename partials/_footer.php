@@ -2,10 +2,12 @@
     <div class="footer-content">
         <nav class="footer-nav">
             <ul>
-                <li><a href="#equipe">Équipe</a></li>
-                <li><a href="#macroplanning">Planning</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="#encadrement">Encadrement</a></li>
+                <li>Alan Paris</li>
+                <li>Sabrina Laala</li>
+                <li>Eleonore Porchet</li>
+                <li>Salma Es-Saktany</li>
+                <li>Julien Compare</li>
+                <li>Jibrail Saba</li>
             </ul>
         </nav>
 

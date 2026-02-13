@@ -26,7 +26,7 @@ include 'partials/_navigation.php';
         </p>
         <div class="boutons-container">
             <a href="../rapport_lancement.php" class="mon-btn btn-vert">Rapport de lancement</a>
-            <a href="../rapport_final.php" class="mon-btn btn-blanc">Rapport final</a>
+<!--            <a href="../rapport_final.php" class="mon-btn btn-blanc disabled">Rapport final</a>-->
             <a href="../annexes.php" class="mon-btn btn-blanc">Annexes</a>
         </div>
     </div>

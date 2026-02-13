@@ -46,7 +46,6 @@
     transform: scale(1.05);
 }
 
-
 .chef-projet .member-photo {
     width: 180px;
     height: 180px;
@@ -67,7 +66,6 @@
     line-height: 1.6;
     padding: 0 15px;
 }
-
 
 .badge-chef {
     display: inline-block;
@@ -96,77 +94,84 @@
 }
 
 /****************************************************************************************
-                                INTRODUCTION
+                                    INTRODUCTION
 ****************************************************************************************/
 
 .introduction {
     padding: 3rem;
 }
 
-/****************************************************************************************
-                                FOOTER
-****************************************************************************************/
+/*******************************************************************************************
+                                      PESTEL
+*******************************************************************************************/
 
-footer {
-    background-color: var(--main-color);
-    color: white;
-    padding: 30px 0;
-    margin-top: 60px;
-    border-top: 1px solid var(--main-color);
+.pestel {
+    padding: 3rem;
+    background-color: var(--white-color);
 }
 
-.footer-content {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 15px;
-    text-align: center;
+.pestel-photo-pictures {
+    width: 270px;
+    height: 270px;
 }
 
-.footer-nav {
-    margin-bottom: 25px;
+.mb-20 {
+    margin-bottom: 20px;
 }
 
-.footer-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+/*******************************************************************************************
+                                      ALIGNER
+*******************************************************************************************/
+
+.aligner {
+    padding: 3rem;
+    background-color: var(--background-color);
+}
+
+.aligner-left ul li {
+    background: var(--white-color);
+    border-left: 5px solid var(--quatruno-color);
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.aligner-container {
     display: flex;
+}
+
+.aligner-left {
+    flex: 60%;
+}
+.aligner-right {
+    flex: 40%;
+    display: flex;
+    align-content: center;
     justify-content: center;
-    gap: 30px;
-    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
 }
 
-.footer-nav ul li a {
-    color: white;
-    text-decoration: none;
-    transition: color 0.3s ease;
-    font-family: 'Raleway', sans-serif;
-    font-size: 17px;
+.aligner-right img {
+    width: 100%;
 }
 
-.footer-nav ul li a:hover {
-    color: #ffffff;
+.marche-right {
+    flex: 40%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
-.footer-bottom {
-    padding-top: 20px;
-    border-top: 1px solid #ffffff;
-    font-size: 14px;
-    color: var(--main-color);
+.marche-right img {
+    width: 100%;
 }
 
-.footer-bottom p {
-    color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    font-size: 17px;
-}
-
-@media (max-width: 768px) {
-    .footer-nav ul {
-        gap: 20px;
-        flex-direction: column;
-    }
-}
 
 /*******************************************************************************************
                                       NAVIGATION
@@ -246,52 +251,6 @@ footer {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23b8e491' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-/* Responsive */
-@media (max-width: 991px) {
-    .navbar-custom .nav-link {
-        margin: 0.25rem 0;
-    }
-}
-
-/*******************************************************************************************
-                                      MARCHE
-*******************************************************************************************/
-
-.marche {
-    padding: 3rem;
-    background-color: var(--background-color);
-}
-
-.marche-left ul li {
-    background: var(--white-color);
-    border-left: 5px solid var(--quatruno-color);
-    margin: 5px 0;
-    padding: 10px;
-    border-radius: 5px;
-    font-family: "Raleway", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.marche-container {
-    display: flex;
-}
-
-.marche-left {
-    flex: 60%;
-}
-.marche-right {
-    flex: 40%;
-    display: flex;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.marche-right img {
-    width: 100%;
-}
 
 /*******************************************************************************************
                                       MACROPLANNING
@@ -316,60 +275,60 @@ footer {
     height: auto;
 }
 
-/*******************************************************************************************
-                                      PESTEL
-*******************************************************************************************/
+/****************************************************************************************
+                                FOOTER
+****************************************************************************************/
 
-.pestel {
-    padding: 3rem;
-    background-color: var(--white-color);
+footer {
+    background-color: var(--main-color);
+    color: white;
+    padding: 30px 0;
+    margin-top: 60px;
+    border-top: 1px solid var(--main-color);
 }
 
-.pestel-photo-pictures {
-    width: 270px;
-    height: 270px;
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    text-align: center;
 }
 
-.mb-20 {
-    margin-bottom: 20px;
+.footer-nav {
+    margin-bottom: 25px;
 }
 
-/*******************************************************************************************
-                                      ALIGNER
-*******************************************************************************************/
-
-.aligner {
-    padding: 3rem;
-    background-color: var(--background-color);
-}
-
-.aligner-left ul li {
-    background: var(--white-color);
-    border-left: 5px solid var(--quatruno-color);
-    margin: 5px 0;
-    padding: 10px;
-    border-radius: 5px;
-    font-family: "Raleway", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.aligner-container {
+.footer-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
-}
-
-.aligner-left {
-    flex: 60%;
-}
-.aligner-right {
-    flex: 40%;
-    display: flex;
-    align-content: center;
     justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    gap: 30px;
+    flex-wrap: wrap;
 }
 
-.aligner-right img {
-    width: 100%;
+.footer-nav ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+
+.footer-nav ul li a:hover {
+    color: #ffffff;
+}
+
+.footer-bottom {
+    padding-top: 20px;
+    border-top: 1px solid #ffffff;
+    font-size: 14px;
+    color: var(--main-color);
+}
+
+.footer-bottom p {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
 }

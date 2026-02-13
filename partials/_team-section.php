@@ -10,7 +10,7 @@
                         <img class="member-photo-pictures-chef" src="https://cvtic.unilim.fr/pluginfile.php/133055/user/icon/boost_union/f1?rev=4876575" alt="Image">
                     </div>
                     <h3 class="member-name">Alan Paris</h3>
-                    <div class="badge-chef">Chef de projet MOE / Tech Lead</div>
+                    <div class="badge-chef">Chef de projet MOE</div>
 <!--                    <p class="member-role mt-3">-->
 <!--                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.-->
 <!--                    </p>-->

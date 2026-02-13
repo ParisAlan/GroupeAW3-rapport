@@ -1,3 +1,12 @@
+/* RESPONSIVE - NAVIGATION */
+
+@media (max-width: 768px) {
+    .navbar-custom .nav-link {
+        margin: 0.25rem 0;
+    }
+}
+
+
 /* RESPONSIVE - AFFICHE EQUIPE */
 
 @media (max-width: 768px) {
@@ -14,7 +23,7 @@
 /* RESPONSIVE - MARCHE */
 
 @media (max-width: 768px) {
-    .marche-container {
+    .aligner-container {
         display: flex;
         flex-direction: column;
     }
@@ -25,5 +34,27 @@
 @media (max-width: 768px) {
     .macroplanning-container img {
         width: 110%;
+    }
+}
+
+/* RESPONSIVE - ALIGNER & PESTEL */
+
+@media (max-width: 768px) {
+    .pestel-photo-pictures {
+        width: 200px;
+        height: 200px;
+    }
+
+    .aligner {
+        padding: 1rem;
+    }
+}
+
+/* RESPONSIVE - FOOTER */
+
+@media (max-width: 768px) {
+    .footer-nav ul {
+        gap: 20px;
+        flex-direction: column;
     }
 }

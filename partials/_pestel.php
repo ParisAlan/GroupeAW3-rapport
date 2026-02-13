@@ -9,7 +9,6 @@
                     <div>
                         <img class="pestel-photo-pictures" src="../assets/images/pestel-P.png" alt="Politique">
                     </div>
-                    <h3 class="member-name">Politique</h3>
                 </div>
             </div>
 
@@ -18,7 +17,6 @@
                     <div>
                         <img class="pestel-photo-pictures" src="../assets/images/pestel-E.png" alt="Économique">
                     </div>
-                    <h3 class="member-name">Économique</h3>
                 </div>
             </div>
 
@@ -27,7 +25,6 @@
                     <div>
                         <img class="pestel-photo-pictures" src="../assets/images/pestel-S.png" alt="Socioculturel">
                     </div>
-                    <h3 class="member-name">Socioculturel</h3>
                 </div>
             </div>
 
@@ -36,7 +33,6 @@
                     <div>
                         <img class="pestel-photo-pictures" src="../assets/images/pestel-T.png" alt="Technologique">
                     </div>
-                    <h3 class="member-name">Technologique</h3>
                 </div>
             </div>
 
@@ -45,7 +41,6 @@
                     <div>
                         <img class="pestel-photo-pictures" src="../assets/images/pestel-E-2.png" alt="Environnemental">
                     </div>
-                    <h3 class="member-name">Environnemental</h3>
                 </div>
             </div>
 
@@ -54,7 +49,6 @@
                     <div>
                         <img class="pestel-photo-pictures" src="../assets/images/pestel-L.png" alt="Légal">
                     </div>
-                    <h3 class="member-name">Légal</h3>
                 </div>
             </div>
         </div>
