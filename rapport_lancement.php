@@ -12,6 +12,19 @@ include 'partials/_introduction.php';
 ?>
 
 <?php
+include 'partials/_cibles.php';
+?>
+
+<?php
+include 'partials/_resultats.php';
+?>
+
+<?php
+include 'partials/_technologia.php';
+?>
+
+
+<?php
 include "partials/_pestel.php";
 ?>
 

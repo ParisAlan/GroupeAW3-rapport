@@ -3,7 +3,7 @@
         <h2 class="section-title">Analyse PESTEL</h2>
 
         <!-- Les 6 lettres PESTEL sur la même ligne -->
-        <div class="row justify-content-center">
+        <div class="row justify-content-center mb-20">
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="team-member">
                     <div>

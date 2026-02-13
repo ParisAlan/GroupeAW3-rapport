@@ -6,7 +6,7 @@
     --quatruno-color: #b8e491;
     --white-color: #ffffff;
     --black-color: #000000;
-    --background-color : rgba(212, 235, 174, 0.15);
+    --background-color : rgba(212, 235, 174, 0.30);
     --font-stack: 'Raleway', sans-serif;
 }
 
@@ -259,7 +259,7 @@ footer {
 
 .marche {
     padding: 3rem;
-    background-color: rgba(212, 235, 174, 0.15);
+    background-color: var(--background-color);
 }
 
 .marche-left ul li {
@@ -314,4 +314,62 @@ footer {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     width: 65%;
     height: auto;
+}
+
+/*******************************************************************************************
+                                      PESTEL
+*******************************************************************************************/
+
+.pestel {
+    padding: 3rem;
+    background-color: var(--white-color);
+}
+
+.pestel-photo-pictures {
+    width: 270px;
+    height: 270px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+/*******************************************************************************************
+                                      ALIGNER
+*******************************************************************************************/
+
+.aligner {
+    padding: 3rem;
+    background-color: var(--background-color);
+}
+
+.aligner-left ul li {
+    background: var(--white-color);
+    border-left: 5px solid var(--quatruno-color);
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.aligner-container {
+    display: flex;
+}
+
+.aligner-left {
+    flex: 60%;
+}
+.aligner-right {
+    flex: 40%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.aligner-right img {
+    width: 100%;
 }

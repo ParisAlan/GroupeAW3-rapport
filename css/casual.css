@@ -31,6 +31,11 @@ p {
     font-size: 17px;
 }
 
+ul {
+    list-style-type: none !important;
+    padding-left: 0 !important;
+}
+
 .mgc-btn {
     background-color: var(--primary-color);
     color: var(--white-color);
@@ -73,12 +78,3 @@ p {
     color: #469E46;
 }
 
-.pestel {
-    padding: 3rem;
-    background-color: var(--white-color);
-}
-
-.pestel-photo-pictures {
-    width: 270px;
-    height: 270px;
-}

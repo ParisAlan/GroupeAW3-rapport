@@ -1,7 +1,7 @@
-<section id="marche" class="marche">
+<section id="aligner" class="aligner">
     <div class="container">
-        <div class="marche-container">
-            <div class="marche-left">
+        <div class="aligner-container">
+            <div class="aligner-left">
                 <h2 class="section-title">Étude de marché</h2>
 
                 <h3 class="section-subtitle"> 1 - Définition du marché</h3>
