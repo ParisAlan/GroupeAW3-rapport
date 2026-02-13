@@ -43,26 +43,3 @@
     transition: all 0.3s ease;
     cursor: pointer;
 }
-
-.btn-vert {
-    background-color: #469E46;
-    color: white;
-    border: 2px solid #469E46;
-}
-
-.btn-vert:hover {
-    background-color: #368036;
-    border-color: #368036;
-    transform: translateY(-2px);
-}
-
-.btn-blanc {
-    background-color: transparent;
-    color: white;
-    border: 2px solid white;
-}
-
-.btn-blanc:hover {
-    background-color: white;
-    color: #469E46;
-}

@@ -1,7 +1,7 @@
 /* ELEMENT QU'ON RETROUVE UN PEU PARTOUT ! */
 
 body {
-    background: #f8f9fa;
+    background: var(--white-color);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -48,4 +48,37 @@ p {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
     background-color: var(--primary-color);
     color: var(--white-color);
+}
+
+.btn-vert {
+    background-color: #469E46;
+    color: white;
+    border: 2px solid #469E46;
+}
+
+.btn-vert:hover {
+    background-color: #368036;
+    border-color: #368036;
+    transform: translateY(-2px);
+}
+
+.btn-blanc {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.btn-blanc:hover {
+    background-color: white;
+    color: #469E46;
+}
+
+.pestel {
+    padding: 3rem;
+    background-color: var(--white-color);
+}
+
+.pestel-photo-pictures {
+    width: 270px;
+    height: 270px;
 }
