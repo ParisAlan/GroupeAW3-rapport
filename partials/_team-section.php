@@ -18,7 +18,7 @@
             </div>
         </div>
 
-        <!-- Les 5 autres membres sur la même ligne -->
+        <!-- Les 6 autres membres sur la même ligne -->
         <div class="row justify-content-center">
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <div class="team-member">
@@ -70,6 +70,16 @@
                     </div>
                     <h3 class="member-name">Jibrail Saba</h3>
                     <div class="badge-chef">Assistant chef de projet MOA</div>
+                </div>
+            </div>
+            
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="team-member">
+                    <div class="member-photo">
+                        <img class="member-photo-pictures" src="https://cvtic.unilim.fr/pluginfile.php/153182/user/icon/boost_union/f1?rev=4826967" alt="Image">
+                    </div>
+                    <h3 class="member-name">Yamine Daroueche</h3>
+                    <div class="badge-chef">Développeur Front-End</div>
                 </div>
             </div>
         </div>

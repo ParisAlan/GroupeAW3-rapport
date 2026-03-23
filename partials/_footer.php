@@ -8,12 +8,13 @@
                 <li>Salma Es-Saktany</li>
                 <li>Julien Compare</li>
                 <li>Jibrail Saba</li>
+                <li>Yamine Daroueche</li>
             </ul>
         </nav>
 
         <!-- Copyright -->
         <div class="footer-bottom">
-            <p>&copy; <?php echo date('Y'); ?> - Tous droits réservés | Projet universitaire pour l'UEL304</p>
+            <p>&copy; <?php echo date('Y'); ?> - Tous droits réservés | Projet universitaire pour l'UE L304</p>
         </div>
     </div>
 </footer>
