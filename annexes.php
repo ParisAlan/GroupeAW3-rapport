@@ -22,6 +22,21 @@ include 'partials/_navigation.php';
         </div>
     </div>
 
+    <div class="card" style="width: 18rem;">
+        <img src="assets/images/backgroundgreen.jpg" class="card-img-top" alt="Cahier des charges">
+        <div class="card-body">
+            <h5 class="card-title">Cahier des charges v2</h5>
+            <p class="card-text">
+                Consultez le cahier des charges v2 du projet MyGreen Campus.
+            </p>
+            <a href="#"
+               class="mon-btn btn-vert"
+               target="_blank">
+                Voir le PDF
+            </a>
+        </div>
+    </div>
+
 </section>
 
 <?php
