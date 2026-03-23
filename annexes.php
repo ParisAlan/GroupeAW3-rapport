@@ -6,7 +6,7 @@ include 'head.php';
 <?php
 include 'partials/_navigation.php';
 ?>
-<section class="pestel">
+<section class="pestel" style="display: flex; gap: 35px;">
     <div class="card" style="width: 18rem;">
         <img src="assets/images/backgroundgreen.jpg" class="card-img-top" alt="Cahier des charges">
         <div class="card-body">
