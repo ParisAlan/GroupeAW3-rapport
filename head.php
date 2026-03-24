@@ -24,5 +24,6 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/styleindex.css">
+    <?php if (isset($extra_css)) echo $extra_css; ?>
 </head>
 <body>
