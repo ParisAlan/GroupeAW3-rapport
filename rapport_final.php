@@ -32,6 +32,8 @@ include 'head.php';
         <a href="#indicateurs">KPI</a>
         <a href="#lecons">Leçons</a>
         <a href="#offre-technique">Offre technique</a>
+        <a href="#organisation">Organisation du projet</a>
+        <a href="#demo">Briques de démonstration</a>
     </div>
 </nav>
 
@@ -43,6 +45,8 @@ include 'head.php';
 <?php include 'partials/_rf_risques_kpi.php'; ?>
 <?php include 'partials/_rf_lecons.php'; ?>
 <?php include 'partials/_rf_offre_technique.php'; ?>
+<?php include 'partials/_rf_organisation.php'; ?>
+<?php include 'partials/_rf_demo.php'; ?>
 
 <?php include "partials/_footer.php"; ?>
 

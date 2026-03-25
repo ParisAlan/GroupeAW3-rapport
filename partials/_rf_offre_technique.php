@@ -32,28 +32,28 @@
                     <span class="rf-page-icon">📊</span>
                     <div>
                         <strong>Le tableau de bord</strong>
-                        <p>Affiche les résultats sous forme visuelle.</p>
+                        <p>Affiche les résultats sous forme visuelle avec divers tableaux permettant une compréhension et une comparaison plus facile.</p>
                     </div>
                 </div>
                 <div class="rf-page-item">
                     <span class="rf-page-icon">👤</span>
                     <div>
                         <strong>Mon profil</strong>
-                        <p>Regroupe les informations personnelles de l'étudiant, son université et les badges débloqués. Une page Paramètres lui permet de modifier ses données personnelles et de se déconnecter.</p>
+                        <p>Regroupe les informations personnelles de l'étudiant, son université et les badges débloqués. Une page Paramètres lui permet de modifier ses données personnelles pour recalculer son empreinte carbone.</p>
                     </div>
                 </div>
                 <div class="rf-page-item">
                     <span class="rf-page-icon">🌱</span>
                     <div>
                         <strong>Espace Actions & Défis</strong>
-                        <p>Propose une liste de recommandations personnalisées ainsi que des défis en cours.</p>
+                        <p>Propose une liste de défis en cours mis en place.</p>
                     </div>
                 </div>
                 <div class="rf-page-item">
                     <span class="rf-page-icon">📰</span>
                     <div>
                         <strong>Pages complémentaires</strong>
-                        <p>Actualités (informations et liens utiles), Contact (formulaire, adresse, mail), À propos (équipe et méthodologie de calcul).</p>
+                        <p>Actualités (informations et liens utiles), Contact (formulaire, adresse, mail).</p>
                     </div>
                 </div>
             </div>

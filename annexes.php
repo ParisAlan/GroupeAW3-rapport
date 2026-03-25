@@ -29,7 +29,7 @@ include 'partials/_navigation.php';
             <p class="card-text">
                 Consultez le cahier des charges v2 du projet MyGreen Campus.
             </p>
-            <a href="#"
+            <a href="assets/pdf/cdc-mgc-groupe03-v2.pdf"
                class="mon-btn btn-vert"
                target="_blank">
                 Voir le PDF
@@ -46,5 +46,3 @@ include 'partials/_footer.php';
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
-</body>
-</html>
